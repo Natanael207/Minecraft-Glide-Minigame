@@ -1,0 +1,77 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Map selection",
+  "pause": false,
+  "actions": [
+    {
+      "label": "Map 1",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 1"
+      }
+    },
+    {
+      "label": "Map 2",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 2"
+      }
+    },
+    {
+      "label": "Map 3",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 3"
+      }
+    },
+     {
+      "label": "Map 4",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 4"
+      }
+    },
+     {
+      "label": "Map 5",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 5"
+      }
+    },
+     {
+      "label": "Map 6",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 6"
+      }
+    },
+     {
+      "label": "Map 7",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 7"
+      }
+    },
+     {
+      "label": "Map 8",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 8"
+      }
+    },
+     {
+      "label": "Map 9",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 9"
+      }
+    },
+     {
+      "label": "Map 10",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 10"
+      }
+    }
+  ]
+}

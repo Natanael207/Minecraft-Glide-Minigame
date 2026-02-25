@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
         "mapselection:trigger_repeat",
-        "game:trigger_repeat"
+        "game:trigger_repeat",
+        "game:startgame/detectgamestart"
     ]
 }

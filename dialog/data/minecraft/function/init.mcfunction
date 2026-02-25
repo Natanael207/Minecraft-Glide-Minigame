@@ -1,1 +1,2 @@
 gamerule send_command_feedback false
+scoreboard objectives add timers dummy

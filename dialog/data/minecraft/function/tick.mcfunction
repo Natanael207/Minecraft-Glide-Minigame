@@ -1,0 +1,1 @@
+execute if score startCountdown timers matches 1.. run scoreboard players remove startCountdown timers 1

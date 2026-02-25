@@ -3,6 +3,8 @@
     "values": [
         "mapselection:trigger_repeat",
         "game:trigger_repeat",
-        "game:startgame/detectgamestart"
+        "game:startgame/detectgamestart",
+        "minecraft:tick",
+        "game:startgame/countdown"
     ]
 }

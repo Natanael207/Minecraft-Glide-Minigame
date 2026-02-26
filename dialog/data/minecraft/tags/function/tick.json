@@ -1,10 +1,9 @@
 {
     "replace": false,
     "values": [
-        "mapselection:trigger_repeat",
-        "game:trigger_repeat",
+        "mapselectiondialog:trigger_repeat",
         "game:startgame/detectgamestart",
-        "minecraft:tick",
-        "game:startgame/countdown"
+        "game:startgame/countdown",
+        "game:boost/ticker"
     ]
 }

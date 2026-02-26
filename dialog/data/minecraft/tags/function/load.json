@@ -1,8 +1,7 @@
 {
     "replace": false,
     "values": [
-        "mapselection:trigger_setup",
-        "game:trigger_setup",
+        "mapselectiondialog:trigger_setup",
         "minecraft:init"
     ]
 }

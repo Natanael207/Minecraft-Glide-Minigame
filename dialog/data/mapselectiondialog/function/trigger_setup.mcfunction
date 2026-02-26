@@ -1,1 +1,2 @@
+scoreboard objectives add startgame trigger
 scoreboard objectives add mapselection trigger

@@ -1,0 +1,118 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Map selection",
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": ""
+    }
+  ],
+  "inputs": [],
+  "pause": false,
+  "columns": 4,
+  "actions": [
+    {
+      "label": "Body",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 1"
+      }
+    },
+    {
+      "label": "Celts",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 4"
+      }
+    },
+    {
+      "label": "Dragon",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 7"
+      }
+    },
+    {
+      "label": "Canyon",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 10"
+      }
+    },
+    {
+      "label": "Mobs",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 2"
+      }
+    },
+    {
+      "label": "Excalibur",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 5"
+      }
+    },
+    {
+      "label": "Kraken",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 8"
+      }
+    },
+    {
+      "label": "Cavern",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 11"
+      }
+    },
+    {
+      "label": "Shrunk",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 3"
+      }
+    },
+    {
+      "label": "Icarus",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 6"
+      }
+    },
+    {
+      "label": "Yeti",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 9"
+      }
+    },
+    {
+      "label": "Temple",
+      "width": 75,
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger mapselection set 12"
+      }
+    },
+    {
+      "label": "Start Game",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "trigger startgame set 1"
+      }
+    }
+  ]
+}

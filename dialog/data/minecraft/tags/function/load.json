@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "mapselectiondialog:trigger_setup",
+        "minecraft:init",
+        "player_motion:internal/technical/load"
+    ]
+}

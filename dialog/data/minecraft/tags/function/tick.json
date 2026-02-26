@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "mapselectiondialog:trigger_repeat",
+        "game:startgame/detectgamestart",
+        "game:startgame/countdown",
+        "game:boost/ticker"
+    ]
+}

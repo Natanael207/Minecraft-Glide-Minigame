@@ -16,3 +16,4 @@ execute if score @s mapselection matches 12 run tp @a 3138 234 2857
 item replace entity @a armor.chest with minecraft:elytra[minecraft:unbreakable={tag:1b},enchantments={binding_curse:1}]
 execute as @a run attribute @s minecraft:gravity base set 0
 scoreboard players set startCountdown timers 120
+scoreboard players set #playing Gamestates 0

@@ -7,3 +7,12 @@ execute at @a[nbt={FallFlying:1b}] if block ~ ~-5 ~ minecraft:netherrack if bloc
 execute at @a[nbt={FallFlying:1b}] if block ~ ~-6 ~ minecraft:netherrack if block ~ ~-5 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
 execute at @a[nbt={FallFlying:1b}] if block ~ ~-7 ~ minecraft:netherrack if block ~ ~-6 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
 execute at @a[nbt={FallFlying:1b}] if block ~ ~-8 ~ minecraft:netherrack if block ~ ~-7 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
+
+execute at @a[nbt={FallFlying:1b}] if block ~ ~-1 ~ minecraft:coal_block if block ~ ~ ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
+execute at @a[nbt={FallFlying:1b}] if block ~ ~-2 ~ minecraft:coal_block if block ~ ~-1 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
+execute at @a[nbt={FallFlying:1b}] if block ~ ~-3 ~ minecraft:coal_block if block ~ ~-2 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
+execute at @a[nbt={FallFlying:1b}] if block ~ ~-4 ~ minecraft:coal_block if block ~ ~-3 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
+execute at @a[nbt={FallFlying:1b}] if block ~ ~-5 ~ minecraft:coal_block if block ~ ~-4 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
+execute at @a[nbt={FallFlying:1b}] if block ~ ~-6 ~ minecraft:coal_block if block ~ ~-5 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
+execute at @a[nbt={FallFlying:1b}] if block ~ ~-7 ~ minecraft:coal_block if block ~ ~-6 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25
+execute at @a[nbt={FallFlying:1b}] if block ~ ~-8 ~ minecraft:coal_block if block ~ ~-7 ~ minecraft:fire run attribute @p minecraft:gravity base set -0.25

@@ -9,6 +9,3 @@ Move the data pack to the "datapacks" folder of your Minecraft world.
 You can find it at %appdata%/.minecraft/saves/[Minecraft world name]/datapacks.
 
 Then load the world.
-
-
-Since I used the Player Motion Datapack from https://modrinth.com/datapack/player_motion I added the credits.md file.
